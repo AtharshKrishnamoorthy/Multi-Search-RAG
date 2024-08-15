@@ -78,11 +78,13 @@ Ensure you have the required environment setup for running the app. Modify `mult
 
 Contributions are welcome! Here's how you can contribute:
 
-1.Fork the repository.
-2.Create a new branch: `git checkout -b feature-branch-name.`
-3.Make your changes and commit them: `git commit -m 'Add some feature'.`
-4.Push to the original branch: `git push origin feature-branch-name.`
-5.Create a pull request.
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature-branch-name`.
+3. Make your changes and commit them: `git commit -m 'Add some feature'`.
+4. Push to the original branch: `git push origin feature-branch-name`.
+5. Create a pull request.
+
+Please update tests as appropriate and adhere to the project's coding standards.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
