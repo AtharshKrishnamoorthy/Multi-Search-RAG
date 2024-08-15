@@ -2,7 +2,17 @@
 
 ## Screenshots
 
+#### 1. Wiki Search
+![Screenshot 1](https://github.com/AtharshKrishnamoorthy/Multi-Search-RAG/blob/main/output/Screenshot%20(1199).png)
+![Screenshot 2](https://github.com/AtharshKrishnamoorthy/Multi-Search-RAG/blob/main/output/Screenshot%20(1200).png)
+#### 2. Arxiv Search
+![Screenshot 3](https://github.com/AtharshKrishnamoorthy/Multi-Search-RAG/blob/main/output/Screenshot%20(1203).png)
+![Screenshot 4](https://github.com/AtharshKrishnamoorthy/Multi-Search-RAG/blob/main/output/Screenshot%202024-08-15%20132807.png)
+#### 3. Google Lens
+![Screenshot 5](https://github.com/AtharshKrishnamoorthy/Multi-Search-RAG/blob/main/output/Screenshot%20(1206).png)
+![Screenshot 6](https://github.com/AtharshKrishnamoorthy/Multi-Search-RAG/blob/main/output/Screenshot%20(1201).png)
 
+#### NOTE : The Places API and Drive API in the Google Cloud Platform is billable so I haven't used it here
 
 ## Table of Contents
 - [Features](#features)
@@ -51,6 +61,8 @@ Before you begin, ensure you have met the following requirements:
     ```bash
     SERP_API_KEY=your_serp_api_key
     GOOGLECLOUD_API_KEY=your_google_cloud_api_key
+
+  - Enable the Places API, Drive API in Google Cloud Platform, and Lens API in Serp Platform
 
 ## Usage
 
