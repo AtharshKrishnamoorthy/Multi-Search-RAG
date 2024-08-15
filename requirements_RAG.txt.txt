@@ -1,0 +1,14 @@
+langchain-community
+langchain-groq
+langchain-core
+langchain-googledrive
+streamlit
+faiss-cpu
+python-dotenv
+wikipedia
+arxiv
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+bs4
+requests
